@@ -6,7 +6,7 @@ Open termux
 yes | pkg update 
 yes | pkg install git 
 git clone https://github.com/elimont/terdlp.git 
-cd termux-yt-dlp 
+cd terdlp
 yes | bash install.sh
 
 ```
