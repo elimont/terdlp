@@ -2,7 +2,7 @@
 
 BLUE='\e[34m'
 NC='\e[0m'
-
+YTDLP_CONFIG_FOLDER="${HOME}/.config/yt-dlp/"
 TERMUXURLOPENER_CONFIG_FOLDER="${HOME}/bin/"
 
 echo "Hi, This script setup an environment to download various videos from various apps"
